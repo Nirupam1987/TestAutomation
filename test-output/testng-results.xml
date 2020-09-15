@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-15T13:27:33 IST" name="Default suite" finished-at="2020-09-15T13:28:04 IST" duration-ms="30616">
+    <groups>
+    </groups>
+    <test started-at="2020-09-15T13:27:33 IST" name="Default test" finished-at="2020-09-15T13:28:04 IST" duration-ms="30616">
+      <class name="com.Google.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.Google.qa.testcases.HomePageTest@7c7a06ec]" started-at="2020-09-15T13:27:33 IST" name="SetUp" finished-at="2020-09-15T13:27:41 IST" duration-ms="7758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="HomePageTitleTest()[pri:1, instance:com.Google.qa.testcases.HomePageTest@7c7a06ec]" started-at="2020-09-15T13:27:41 IST" name="HomePageTitleTest" finished-at="2020-09-15T13:27:41 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTitleTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.Google.qa.testcases.HomePageTest@7c7a06ec]" started-at="2020-09-15T13:27:41 IST" name="TearDown" finished-at="2020-09-15T13:27:42 IST" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.Google.qa.testcases.HomePageTest@7c7a06ec]" started-at="2020-09-15T13:27:42 IST" name="SetUp" finished-at="2020-09-15T13:27:48 IST" duration-ms="6599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="HomePageLogoTest()[pri:2, instance:com.Google.qa.testcases.HomePageTest@7c7a06ec]" started-at="2020-09-15T13:27:48 IST" name="HomePageLogoTest" finished-at="2020-09-15T13:27:48 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageLogoTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.Google.qa.testcases.HomePageTest@7c7a06ec]" started-at="2020-09-15T13:27:48 IST" name="TearDown" finished-at="2020-09-15T13:27:49 IST" duration-ms="657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.Google.qa.testcases.HomePageTest@7c7a06ec]" started-at="2020-09-15T13:27:49 IST" name="SetUp" finished-at="2020-09-15T13:27:56 IST" duration-ms="6924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="HomePageSearchFuntionalityTest()[pri:3, instance:com.Google.qa.testcases.HomePageTest@7c7a06ec]" started-at="2020-09-15T13:27:56 IST" name="HomePageSearchFuntionalityTest" finished-at="2020-09-15T13:28:03 IST" duration-ms="7242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageSearchFuntionalityTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.Google.qa.testcases.HomePageTest@7c7a06ec]" started-at="2020-09-15T13:28:03 IST" name="TearDown" finished-at="2020-09-15T13:28:04 IST" duration-ms="675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.Google.qa.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

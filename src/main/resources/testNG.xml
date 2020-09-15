@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Google Test Automation Test Suite">
+
+	<listeners>
+		<listener
+			class-name="com.Google.qa.ExtentReportListeners.ExtentReportListeners" />
+	</listeners>
+
+	<test name="Google Test">
+		<classes>
+			<class name="com.Google.qa.testcases.HomePageTest"></class>
+			<class name="com.Google.qa.testcases.SearchpageTest"></class>
+			<class name="com.Google.qa.testcases.LandingPageTest"></class>
+		</classes>
+	</test>
+</suite>
