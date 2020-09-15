@@ -7,6 +7,8 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.Google.qa.base.TestBase;
 
+
+
 public class HomePage extends TestBase{
 	
 	//PageRepository or Object Repository
@@ -37,7 +39,7 @@ public class HomePage extends TestBase{
 	public SearchPage ValidateSearchFuntionality(String keyword) throws InterruptedException {
 		SearchTextBox.sendKeys(keyword);
 		SearchTextBox.sendKeys(Keys.ENTER);
-		Thread.sleep(5000);
+		Thread.sleep(4000);
 		
 		return new SearchPage();
 	}
